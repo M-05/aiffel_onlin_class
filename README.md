@@ -34,7 +34,7 @@
 ---
 :blue_book: [Going Deeper](https://github.com/M-05/aiffel_onlin_class/tree/main/Going%20Deeper)
 ---
-:leaves: 23.02.13 ~ 23.03.17`
+:leaves: `23.02.13 ~ 23.03.17`
 |프로젝트명|Link|제출일|
 |----|----|----|
 |01 나랑 닮은 연예인은 누구?(Face Recognition)|[:musical_score:](https://github.com/M-05/aiffel_onlin_class/blob/main/Going%20Deeper/%5BGD-01%5Dface_recognition_with_castlemoney%20%5B23.02.13%5D.ipynb)|23.02.13|
