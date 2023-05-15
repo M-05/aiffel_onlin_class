@@ -4,7 +4,6 @@
 :calendar: `2022-11-21 ~ 2023-05-08`  
 <img width="1276" alt="커리큘럼1" src="https://user-images.githubusercontent.com/103846429/236385010-04f71f49-3795-4e84-91e4-2179cacacc71.png">  
 <img width="1123" alt="커리큘럼2" src="https://user-images.githubusercontent.com/103846429/236385079-296b3bf3-01ed-42d7-a53e-7f9c9797105b.png">  
-[아이펠 18주간의 수업](https://github.com/M-05/aiffel_onlin_class/tree/main/every_single_week)  
 
 ---
 :closed_book: [Exploration](https://github.com/M-05/aiffel_onlin_class/tree/main/Exploration)
