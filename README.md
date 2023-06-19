@@ -50,6 +50,6 @@
 |10 트랜스포머로 만드는 대화형 챗봇(Transformer)|[:musical_score:](https://github.com/M-05/aiffel_onlin_class/tree/main/Going%20Deeper/GD-10%20%5B23.03.14%5D)|23.03.14|
 
 ---
-:four_leaf_clover: [AiffelThon](https://github.com/aiffelthon-gal/gal) :telescope:
+:four_leaf_clover: [AiffelThon](https://github.com/M-05/gal) :telescope:
 ---
 :deciduous_tree: `23.03.24 ~ 23.05.08`
